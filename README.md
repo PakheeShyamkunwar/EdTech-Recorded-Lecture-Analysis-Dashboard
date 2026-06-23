@@ -57,96 +57,84 @@ DAX
 ### 1. Category-wise Course Distribution
 
 Analyzed:
-
-Number of courses by category
-Number of courses by sub-category
-Course type distribution across categories
+- Number of courses by category
+- Number of courses by sub-category
+- Course type distribution across categories
+  
 Insight
-
-Helps identify categories with the highest content demand and potential growth opportunities.
+- Helps identify categories with the highest content demand and potential growth opportunities.
 
 ### 2. Average Views Analysis
 
 Calculated average views by:
+- Category
+- Sub-category
+- Language
 
-Category
-Sub-category
-Language
 Insight
-
-Reveals audience engagement trends and helps prioritize content investments.
+- Reveals audience engagement trends and helps prioritize content investments.
 
 ### 3. Most In-Demand Skills
 
-Identified the most frequently taught skills within each category.
+- Identified the most frequently taught skills within each category.
 
 Insight
-
-Highlights skills currently valued in the educational and job market landscape.
+- Highlights skills currently valued in the educational and job market landscape.
 
 ### 4. Language Distribution
 
-Analyzed the distribution of courses across different languages.
+- Analyzed the distribution of courses across different languages.
 
 Insight
-
-Shows content availability and diversity across language segments.
+- Shows content availability and diversity across language segments.
 
 ### 5. Top 5 Categories Language Preference
 
 For the top 5 categories:
-
-Compared viewer preferences across languages.
-Identified the most preferred language in each category.
+- Compared viewer preferences across languages.
+- Identified the most preferred language in each category.
+  
 Insight
-
-Supports localization and multilingual content strategy.
+- Supports localization and multilingual content strategy.
 
 ### 6. Subtitles vs Views Analysis
 
 Examined whether subtitle availability impacts:
-
-Course reach
-Viewer engagement
+- Course reach
+- Viewer engagement
+  
 Insight
-
-Courses with subtitles generally demonstrate improved accessibility and higher engagement.
+- Courses with subtitles generally demonstrate improved accessibility and higher engagement.
 
 ### 7. Top Instructors Analysis
 
 Identified:
-
-Top 3 instructors per category
-Top 3 instructors per sub-category
-
+- Top 3 instructors per category
+- Top 3 instructors per sub-category
 Based on ratings.
 
 Insight
-
-Highlights high-performing educators who can be considered for future partnerships.
+- Highlights high-performing educators who can be considered for future partnerships.
 
 ### 8. Course Duration vs Views
 
 Standardized duration values:
-
-1 Month = 60 Hours
-Flexible Schedule = 200 Hours
+- 1 Month = 60 Hours
+- Flexible Schedule = 200 Hours
 
 Analyzed:
-
-Duration vs Viewership
-Category-wise Duration Trends
+- Duration vs Viewership
+- Category-wise Duration Trends
+  
 Insight
-
-Helps determine optimal course length for maximizing engagement.
+- Helps determine optimal course length for maximizing engagement.
 
 ### 9. Skill Variety vs Viewership
 
-Investigated whether categories offering a wider variety of skills attract more viewers.
+- Investigated whether categories offering a wider variety of skills attract more viewers.
 
 Insight
-
-Categories with broader skill coverage tend to achieve higher overall engagement.
+- Categories with broader skill coverage tend to achieve higher overall engagement.
 
 ## Key Findings
 
