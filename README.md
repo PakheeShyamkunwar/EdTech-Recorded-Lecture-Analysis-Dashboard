@@ -5,14 +5,14 @@ This project analyzes recorded lecture data collected from various EdTech platfo
 
 The objective is to identify:
 
-Popular course categories
-Viewer engagement patterns
-Language preferences
-High-performing instructors
-Most demanded skills
-Impact of subtitles
-Course duration vs views relationship
-Category-wise business opportunities
+- Popular course categories
+- Viewer engagement patterns
+- Language preferences
+- High-performing instructors
+- Most demanded skills
+- Impact of subtitles
+- Course duration vs views relationship
+- Category-wise business opportunities
 
 The dashboard was developed using Power BI and provides interactive insights for stakeholders.
 
@@ -21,12 +21,12 @@ An EdTech startup wants to expand its recorded lecture offerings.
 
 The company has collected course data from multiple EdTech platforms but lacks clear insights into:
 
-Which categories are most popular
-Which languages attract more viewers
-Which instructors perform best
-What skills are currently in demand
-Whether subtitles affect engagement
-How course duration impacts viewership
+- Which categories are most popular
+- Which languages attract more viewers
+- Which instructors perform best
+- What skills are currently in demand
+- Whether subtitles affect engagement
+- How course duration impacts viewership
 
 The analysis helps the startup optimize content strategy and improve learner engagement.
 
