@@ -138,48 +138,24 @@ Insight
 
 ## Key Findings
 
-### Top Categories
-- Data Science
-- Business
-- Computer Science
-- Information Technology
-- Personal Development
-(Replace with your actual results)
-
-### Most Preferred Language
-- English
-(Replace with actual findings)
-
-### Subtitle Impact
-- Courses with subtitles received higher average views.
-  
-### High Engagement Duration
-- Medium-duration courses showed stronger engagement than extremely short or very long courses.
-
-### Most Demanded Skills
-- Python
-- Machine Learning
-- SQL
-- Data Analysis
-- Project Management
-(Replace with actual findings)
+- Data Science recoreded the highest average viewership (6,382 views), making it the most engaging category.
+- Information Technology and Computer Science also showed learner interest with over 4,400 average views.
+- Standard courses significantly outnumber Specializations and Professional Certificates.
+- English is the dominant course language, accounting fot the majority of available content.
+- Skills such as Python, Machine Learning, Data Analysis, SQL and Programming are the most frequently taught.
+- Courses with subtitles generally attract higher viewership.
+- Top instructors consistently maintain ratings between 4.8-4.9, reflecting high learner satisfaction.
+- Categories offering a wider variety of skills tend to achieve higher engagement and viewerships.
 
 ## Business Recommendations
 
-### Content Expansion
-- Invest more in high-demand categories with strong viewer engagement.
-
-### Language Strategy
-- Launch courses in preferred languages identified for top categories.
-
-### Instructor Partnerships
-- Collaborate with top-rated instructors to improve course quality.
-
-### Accessibility Enhancement
-- Increase subtitle availability across courses.
-
-### Skill-Focused Content
-- Develop courses around highly demanded skills to improve enrollment and engagement.
+- Expand courses offerings in Data Science, Information Technology and Computer Science to maximize learner engagement.
+- Develop courses around high-demand skills such as Python, SQL, Machine Learrning, and Data Analytics.
+- Increase subtitle availability to improve accessibility and attract a broader audience.
+- Collaborate with top-rated instructors to enhance course quality and credibility.
+- Introduce mor multilingual content to reach international learners.
+- Create skill-based learning paths and certifications to improve learner retention and course completion rates.
+- Focus on comprehensive courses that combine multiple in-demand skills rather than standalone topics.
 
 ## Outcome
 This dashboard enables the EdTech startup to make informed decisions regarding:
